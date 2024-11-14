@@ -18,8 +18,8 @@ async def start(client, message):
     button=InlineKeyboardMarkup([[
         InlineKeyboardButton("𝐂𝐨𝐧𝐭𝐚𝐜𝐭", callback_data='dev')
         ],[
-        InlineKeyboardButton('✜ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬', url='https://t.me/Opleech'),
-        InlineKeyboardButton('✜ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭', url='https://t.me/WD_Topic_Group')
+        InlineKeyboardButton('✜ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬', url='https://t.me/Naruto_Shippuden_Tamil_NST'),
+        InlineKeyboardButton('✜ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭', url='https://t.me/Naruto_Shippuden_Tamil_NST')
         ],[
         InlineKeyboardButton('✜ 𝐀𝐛𝐨𝐮𝐭', callback_data='about'),
         InlineKeyboardButton('✜ 𝐇𝐞𝐥𝐩', callback_data='help')
@@ -67,8 +67,8 @@ async def cb_handler(client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup( [[
                 InlineKeyboardButton("𝐂𝐨𝐧𝐭𝐚𝐜𝐭", callback_data='dev')                
                 ],[
-                InlineKeyboardButton('✜ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬', url='https://t.me/Opleech'),
-                InlineKeyboardButton('✜ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭', url='https://t.me/WD_Topic_Group')
+                InlineKeyboardButton('✜ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬', url='https://t.me/Naruto_Shippuden_Tamil_NST'),
+                InlineKeyboardButton('✜ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭', url='https://t.me/Naruto_Shippuden_Tamil_NST')
                 ],[
                 InlineKeyboardButton('✜ 𝐀𝐛𝐨𝐮𝐭', callback_data='about'),
                 InlineKeyboardButton('✜ 𝐇𝐞𝐥𝐩', callback_data='help')
@@ -101,7 +101,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=mr.DEV_TXT,
             reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change Contact & Contact link ⚠️ #
-               InlineKeyboardButton("🦋 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 🦋", url="https://t.me/WD_Contact_Bot")
+               InlineKeyboardButton("🦋 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 🦋", url="https://t.me/Dont_Think_Me")
                ],[
                InlineKeyboardButton("⫷◆𝐁𝐚𝐜𝐤", callback_data = "start"),
                InlineKeyboardButton("✘ 𝐂𝐥𝐨𝐬𝐞", callback_data = "close")
