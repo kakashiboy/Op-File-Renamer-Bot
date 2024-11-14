@@ -6,13 +6,13 @@ class mr(object):
 ┣⪼ ⏳️ : {0}%
 ┣⪼ 🚀 : {3}/s
 ┣⪼ ⏱️ : {4}
-╰━━━❖ 𝐖𝐃 𝐙𝐎𝐍𝐄 ❖ ™━━➣ """
+╰━━━❖ Sasuke Bot ❖ ™━━➣ """
 
     ABOUT_TXT = """
 ╭───────────⍟
 ├🤖 My Name : {}
-├❖ 𝐖𝐃 𝐙𝐎𝐍𝐄 ❖ ™ : <a href=https://t.me/Opleech>Click Here</a> 
-├👨‍💻 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : <a href=https://t.me/WD_Contact_Bot>Click Here</a>
+├❖ Mr Sasuke ❖ ™ : <a href=https://t.me/Dont_Think_Me>Click Here</a> 
+├👨‍💻 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : <a href=https://t.me/Dont_Think_Me>Click Here</a>
 ├📕 Library : <a href=https://github.com/pyrogram>Pyrogram</a>
 ├✏️ Language : <a href=https://www.python.org>Python 3</a>
 ├💾 Database : <a href=https://cloud.mongodb.com>MongoDB</a>
@@ -38,15 +38,15 @@ Example:- /set_caption 📕 File Name: {filename}
 
 ✏️ <b><u>How To Rename A Files</u></b>
 ⌾≕≻  send any file and click rename option and type new file name and \n send select [ document, video, audio ]👈 choice this.
- 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/WD_Topic_Group>support Group</a>
+ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/Naruto_Shippuden_Tamil_NST>support Group</a>
 """
 
 #⚠️ don't remove our credits 🥰
     DEV_TXT = """
 <b><u>Special Thanks & Developers</b></u> 
 
-» Contact: <a href=https://t.me/WD_Contact_Bot>Contact Bot</a>
+» Contact: <a href=https://t.me/Dont_Think_Me>Contact Bot</a>
 
-⌾ ❣️ <a href=https://t.me/Opleech>❖ 𝐖𝐃 𝐙𝐎𝐍𝐄 ❖ ™</a>
-⌾ ❣️ <a href=https://t.me/WD_Topic_Group>WD Topic Group</a>
+⌾ ❣️ <a href=https://t.me/Naruto_Shippuden_Tamil_NST>❖  ❖ ™</a>
+⌾ ❣️ <a href=https://t.me/Topic_Group>Naruto_Shippuden_Tamil_NST</a>
 """
